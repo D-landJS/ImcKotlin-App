@@ -1,6 +1,6 @@
 # BMI-App
 
-It's a simple app based on BMI, developed with Kotlin and XML.
+It's a minimalist BMI calculator app developed using Kotlin and XML, implementing fundamental Kotlin concepts such as constants, view binding, handling user interactions, screen navigation, and color management.
 
 ---
 
